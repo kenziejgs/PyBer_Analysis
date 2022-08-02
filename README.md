@@ -8,3 +8,4 @@ Software: Python 3.9.12, Jupyter Notebooks, Matplotlib
 
 ### Results
 After merging the two datasets into a single dataframe, I was able to calculate the total number of drivers, number of rides and total fares broken down by the type of city. I then calculated the average fare per ride and the average fare per driver as well. This information can be seen here:
+![Summary Chart](Analysis/Screenshot1)
